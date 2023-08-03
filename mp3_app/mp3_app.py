@@ -9,7 +9,6 @@ class YouTubeDownloaderApp:
         self.root = root
         self.root.title("MP3 player conventon")
         self.root.resizable(False, False)
-
         self.create_widgets()
         self.apply_styles()
 
